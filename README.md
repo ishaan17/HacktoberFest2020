@@ -13,7 +13,7 @@
 <p><a href="https://github.com/RishabhArya/HacktoberFest2020/blob/master/LICENSE"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"></a> <a href="https://github.com/RishabhArya/HacktoberFest2020/blob/master/LICENSE"><img src="https://img.shields.io/github/license/vinitshahdeo/HacktoberFest2K19?logo=GITHUB&amp;style=flat" alt="GitHub license"></a></p>
 <p><strong>Register <a href="https://hacktoberfest.digitalocean.com">here</a> for Hacktoberfest and make four pull requests (PRs) between October 1-31 to earn a free t-shirt and cool swags.</strong></p>
 <blockquote>
-<p>I’ve opened few issues for beginners. Take up any issue and send your first PR!</p>
+<p>I’ve opened few issues for beginners. Take up any issue and send your first PR.</p>
 </blockquote>
 <p><strong>Resources</strong></p>
 <ul>
