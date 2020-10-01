@@ -12,6 +12,8 @@
 <em><strong>Suggested Tech Stack</strong></em> - HTML,CSS,PHP,JS</p>
   <p><strong>Home Automation System</strong>- Android application to control several electrical appliances by clicking specific buttons or using voice commands. These commands will be relayed via Bluetooth to Arduino Uno, thereby completely automating specific tasks for you.<br>
     <em><strong>Suggested Tech Stack</strong></em>- Android, Aurdino</p>
+  <p><strong>Remote password security</strong>-The system is configured to allow authorized person with a password. A password changing provision is also provided along with it. The password entering feature is providing through remote access. Remote access is provided with the use of an android application that can run on any android device<br>
+    <em><strong>Suggested Tech Stack</strong></em>- Android, Aurdino</p>
 </li>
 </ol>
 

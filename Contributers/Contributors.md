@@ -15,6 +15,8 @@ Hello Everyone
 My name is Rachita Jain. I am an Anroid Developer and i am contributing for first time in HactoberFest.I  hope i could solve bugs issues and contribute in it.
 
 <!-- Hay I am 2nd Contributor -->
+Hello 
+My name is Ishaan Garg. I am working on Java and would love to make contributions and to find out bugs and issues.
 
 <h1 id="hey-there-"> Hey there !</h1>
 
